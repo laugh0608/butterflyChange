@@ -1,12 +1,12 @@
 /* 鼠标样式 */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@1.7/img/default.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/img/default.cur),
     default;
 }
 
 a,
 img {
-  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@1.7//img/pointer.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest//img/pointer.cur),
     default;
 }
 
@@ -55,7 +55,7 @@ img {
 }
 
 /* MAC代码主题换为白色 */
-#article-container figure.highlight,
+/* #article-container figure.highlight,
 #article-container pre {
   color: #a9a9a9;
   background: #f3f3f3
@@ -73,7 +73,7 @@ img {
 
 #article-container figure.highlight figcaption a {
   color: #f3f3f3 !important
-}
+} */
 
 /* 彩色svg图标样式 */
 /* .icon {
@@ -86,12 +86,32 @@ img {
 
 /* 字体样式 */
 @font-face {
-  font-family: 'webfont1';
+  font-family: 'kuaile';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@1.9.1/fonts/站酷文艺体.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷快乐体2016修订版.ttf');
 }
 @font-face {
-  font-family: 'webfont2';
+  font-family: 'xiaowei';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@1.9.1/fonts/站酷快乐体2016修订版.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷小薇LOGO体.otf');
+}
+@font-face {
+  font-family: 'CascadiaCode';
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCode.ttf');
+}
+@font-face {
+  font-family: 'CascadiaCodePL';
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCodePL.ttf');
+}
+@font-face {
+  font-family: 'CascadiaMono';
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMono.ttf');
+}
+@font-face {
+  font-family: 'CascadiaMonoPL';
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMonoPL.ttf');
 }
