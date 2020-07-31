@@ -88,30 +88,30 @@ img {
 @font-face {
   font-family: 'kuaile';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷快乐体2016修订版.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷快乐体2016修订版.ttf') format("ttf");
 }
 @font-face {
   font-family: 'xiaowei';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷小薇LOGO体.otf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷小薇LOGO体.otf') format("otf");
 }
 @font-face {
   font-family: 'CascadiaCode';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCode.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCode.ttf') format("ttf");
 }
 @font-face {
   font-family: 'CascadiaCodePL';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCodePL.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCodePL.ttf') format("ttf");
 }
 @font-face {
   font-family: 'CascadiaMono';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMono.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMono.ttf') format("ttf");
 }
 @font-face {
   font-family: 'CascadiaMonoPL';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMonoPL.ttf');
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMonoPL.ttf') format("ttf");
 }
