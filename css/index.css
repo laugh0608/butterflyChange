@@ -83,3 +83,25 @@ img {
   fill: currentColor;
   overflow: hidden;
 } */
+
+/* 字体样式 */
+@font-face {
+  font-family: 'webfont1';
+  font-display: swap;
+  src: url('//at.alicdn.com/t/webfont_o83mxn7q0lj.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/webfont_o83mxn7q0lj.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/webfont_o83mxn7q0lj.woff2') format('woff2'),
+  url('//at.alicdn.com/t/webfont_o83mxn7q0lj.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/webfont_o83mxn7q0lj.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/webfont_o83mxn7q0lj.svg#杨任东竹石体-Bold') format('svg'); /* iOS 4.1- */
+}
+@font-face {
+  font-family: 'webfont2';
+  font-display: swap;
+  src: url('//at.alicdn.com/t/webfont_ouz8zh8ku4.eot'); /* IE9*/
+  src: url('//at.alicdn.com/t/webfont_ouz8zh8ku4.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/webfont_ouz8zh8ku4.woff2') format('woff2'),
+  url('//at.alicdn.com/t/webfont_ouz8zh8ku4.woff') format('woff'), /* chrome、firefox */
+  url('//at.alicdn.com/t/webfont_ouz8zh8ku4.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/webfont_ouz8zh8ku4.svg#站酷小薇体') format('svg'); /* iOS 4.1- */
+}
