@@ -98,9 +98,9 @@ img {
 /* } */
 
 @font-face {
-  font-family: 'huangyou';
+  font-family: 'wenyi';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/fonts/站酷庆科黄油体.ttf') format("truetype");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.2/fonts/站酷文艺体.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaCode';
