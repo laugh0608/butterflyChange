@@ -1,12 +1,12 @@
 /* 鼠标样式 */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/img/default.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/img/default.cur),
     default;
 }
 
 a,
 img {
-  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/img/pointer.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/img/pointer.cur),
     default;
 }
 
@@ -100,25 +100,25 @@ img {
 @font-face {
   font-family: 'huangyou';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/站酷庆科黄油体.ttf') format("truetype");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/fonts/站酷庆科黄油体.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaCode';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaCode.ttf') format("truetype");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/fonts/CascadiaCode.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaCodePL';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaCodePL.ttf') format("truetype");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/fonts/CascadiaCodePL.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaMono';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaMono.ttf') format("truetype");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/fonts/CascadiaMono.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaMonoPL';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaMonoPL.ttf') format("truetype");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@2.1/fonts/CascadiaMonoPL.ttf') format("truetype");
 }
