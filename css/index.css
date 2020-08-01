@@ -1,12 +1,12 @@
 /* 鼠标样式 */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/img/default.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/img/default.cur),
     default;
 }
 
 a,
 img {
-  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest//img/pointer.cur),
+  cursor: url(https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/img/pointer.cur),
     default;
 }
 
@@ -44,15 +44,15 @@ img {
 } */
 
 /* 所有背景（包括首页卡片、文章页、页面页等） */
-#aside_content .card-widget,
-#recent-posts>.recent-post-item,
-.layout_page>div:first-child:not(.recent-posts),
-.layout_post>#page,
-.layout_post>#post,
-.read-mode .layout_post>#post {
+/* #aside_content .card-widget, */
+/* #recent-posts>.recent-post-item, */
+/* .layout_page>div:first-child:not(.recent-posts), */
+/* .layout_post>#page, */
+/* .layout_post>#post, */
+/* .read-mode .layout_post>#post { */
   /* 以下代表白色透明度为0.8 */
-  background: rgba(255, 255, 255, .8);
-}
+  /* background: rgba(255, 255, 255, .8); */
+/* } */
 
 /* MAC代码主题换为白色 */
 /* #article-container figure.highlight,
@@ -85,33 +85,40 @@ img {
 } */
 
 /* 字体样式 */
+/* 样式格式： */
+/* @font-face { */
+/*   font-family: 'webfont'; */
+/*   font-display: swap; */
+/*   src: url('//at.alicdn.com/t/webfont_gc15dk9i4h.eot');  IE9*/
+/*   src: url('//at.alicdn.com/t/webfont_gc15dk9i4h.eot?#iefix') format('embedded-opentype'),  IE6-IE8 */
+/*        url('//at.alicdn.com/t/webfont_gc15dk9i4h.woff2') format('woff2'), */
+/*        url('//at.alicdn.com/t/webfont_gc15dk9i4h.woff') format('woff'),  chrome、firefox */
+/*        url('//at.alicdn.com/t/webfont_gc15dk9i4h.ttf') format('truetype'),  chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+/*        url('//at.alicdn.com/t/webfont_gc15dk9i4h.svg#Alibaba-PuHuiTi-Regular') format('svg');  iOS 4.1- */
+/* } */
+
 @font-face {
-  font-family: 'kuaile';
+  font-family: 'huangyou';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷快乐体2016修订版.ttf') format("ttf");
-}
-@font-face {
-  font-family: 'xiaowei';
-  font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/站酷小薇LOGO体.otf') format("otf");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/站酷庆科黄油体.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaCode';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCode.ttf') format("ttf");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaCode.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaCodePL';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaCodePL.ttf') format("ttf");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaCodePL.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaMono';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMono.ttf') format("ttf");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaMono.ttf') format("truetype");
 }
 @font-face {
   font-family: 'CascadiaMonoPL';
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange@latest/fonts/CascadiaMonoPL.ttf') format("ttf");
+  src: url('https://cdn.jsdelivr.net/gh/laugh0608/butterflyChange/fonts/CascadiaMonoPL.ttf') format("truetype");
 }
